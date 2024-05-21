@@ -7,11 +7,12 @@ Cybersecurity Engineer
 
 Empowering minds, securing futures, and hacking the boundaries of possibility – where dreams soar higher than the sky itself.
 
-* 🌍  I'm based in Egypt
+* 🌍 I'm based in Egypt
 * 👀 I’m interested in BlueTeamers, Pen Testing, programming, and technologies.
 * 🔭 I’m currently working on Anomaly Network Detection Using AI 
 * 💬 Ask me about Cybersecurity, Networking, and Programming.
-* 🧠  I'm learning how to learn 😁
+* 🧠 I'm learning how to learn 😁
+* ⚡ Top 1% in TryHackMe
 
   <img src="https://tryhackme-badges.s3.amazonaws.com/LoayAsh.png" alt="TryHackMe">
 
